@@ -22,7 +22,7 @@ WIP
   <a href="https://discord.gg/rdbUMSzHrc" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
-  <a href="https://www.tiktok.com/@damnerz" target="blank">
+  <a href="https://www.tiktok.com/@damnerz6" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/TikTok_logo.svg" alt="TikTok" height="30" width="40" />
   </a>
 </p>
