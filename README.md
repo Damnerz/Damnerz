@@ -49,6 +49,12 @@ Hello! I’m Damnerz—a high school student who loves coding, game development,
 YouTube & TikTok
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![:]](https://ytcards.demolab.com/?id=tGszAgBbcYU&title=%3A%5D&lang=en&timestamp=1731010896&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 ":]")](https://www.youtube.com/watch?v=tGszAgBbcYU)
+[![An other bad tribute for a video game.](https://ytcards.demolab.com/?id=LwV5JPZDCwA&title=An+other+bad+tribute+for+a+video+game.&lang=en&timestamp=1730465238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "An other bad tribute for a video game.")](https://www.youtube.com/watch?v=LwV5JPZDCwA)
+[![DSDOOM 64 footage](https://ytcards.demolab.com/?id=9QTL4E7jRtI&title=DSDOOM+64+footage&lang=en&timestamp=1729766334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DSDOOM 64 footage")](https://www.youtube.com/watch?v=9QTL4E7jRtI)
+[![DS footage C.O.R.E. multiplayer](https://ytcards.demolab.com/?id=w97rhvsxgkE&title=DS+footage+C.O.R.E.+multiplayer&lang=en&timestamp=1728366529&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DS footage C.O.R.E. multiplayer")](https://www.youtube.com/watch?v=w97rhvsxgkE)
+[![DSDoom 1.2.1 running on DSi in DS Mode footage.](https://ytcards.demolab.com/?id=J787jZFGXqs&title=DSDoom+1.2.1+running+on+DSi+in+DS+Mode+footage.&lang=en&timestamp=1727426008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DSDoom 1.2.1 running on DSi in DS Mode footage.")](https://www.youtube.com/watch?v=J787jZFGXqs)
+[![Dwango 21st Anniversary solo footage on PrBoom-Plus 3ds.](https://ytcards.demolab.com/?id=rQmwB1BG7bk&title=Dwango+21st+Anniversary+solo+footage+on+PrBoom-Plus+3ds.&lang=en&timestamp=1726942676&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dwango 21st Anniversary solo footage on PrBoom-Plus 3ds.")](https://www.youtube.com/watch?v=rQmwB1BG7bk)
 <!-- END YOUTUBE-CARDS -->
 
 ---
