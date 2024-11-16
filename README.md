@@ -234,8 +234,6 @@ To simplify as a list :)
 - **Game Design & 3D Modeling:** Exploring Blender to expand my skills in game development.
 - **C/C++:** Aiming to improve in low-level systems programming and C++ for game development and homebrew applications.
 
----
-
 ### 🎯 Goals
 
 ---
