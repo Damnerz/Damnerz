@@ -12,6 +12,8 @@ Hello! I’m Damnerz, a high school student who loves coding, game development, 
 
 ### More about me
 
+---
+
 😊Who am I?
 
 I'm just a random young guy in a suit and tie, who wants to do stuff on the web. To share, archive, content on 90s shooter video games like Doom, Duke Nukem 3D. And this random guy only makes content on shooting games on DSs on Youtube.com so I present mods and source ports of homebrews linked specifically to machines with features in games or not. But on Tiktok.com I share less specific stuff. I play games with my gang members on my DS's. Because it's easier to make short videos on Tiktok.com.
