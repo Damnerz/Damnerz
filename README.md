@@ -27,10 +27,10 @@ ___Currently, I'm working on my project PrBoom-Plus-Enhanced, a customized sourc
 
 #### **Tech & Modding**:
 - Exploring and experimenting with custom firmware and ROMs on devices  
-- Watching videos about old computers (*e.g., Apple II*)  
-- Watching "hard modding" of video game consoles  
-- Following modding and homebrew scenes (especially Nintendo DS & 3DS)  
-- Exploring crazy *Doom* ports to unconventional devices  
+- Watching videos about old computers (*e.g., Apple II, BBC Micro, MSX, Amiga, 486,...*)  
+- Watching "hard modding" of video game consoles (*e.g., Nintendo DS family systems, Nintendo 3DS family systems...*)  
+- Following modding and homebrew scenes (especially Nintendo DS & 3DS, also Wii U and PS Vita)  
+- Exploring crazy *Doom* ports to unconventional devices
 
 #### **Creative Projects**:
 - Creating *Doom* maps using Ultimate Doom Builder  
@@ -44,8 +44,8 @@ ___Currently, I'm working on my project PrBoom-Plus-Enhanced, a customized sourc
 
 #### **Media & Entertainment**:
 - Watching tech and gaming-related videos on YouTube and the web  
-- Watching documentaries or videos about retro technology and gaming history  
-- Listening to music for relaxation or inspiration  
+- Watching documentaries or videos about retro technology and gaming history (*e.g., Elite 1894, ...*)  
+- Listening to music for relaxation or inspiration (*e.g., MBR, Beast In Black, video game music, ...*)
 
 #### **Other Hobbies**:
 - Exploring the history of computing and video game development  
