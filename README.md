@@ -5,23 +5,25 @@
 __"A high school student born to program and share"__
 
 ---
+# About Me
 
-___I'm a young guy **in a suit and tie**, balancing a sharp, professional style with a love for gaming and technology. I dive deep into **Boomer Shooter video games** like _Doom_ and _Duke Nukem 3D_, creating and archiving content to preserve the history and extend the life of these classics.
+I'm a young guy **_in a suit and tie_**, balancing a sharp, professional style with a love for gaming and technology. I dive deep into **_Boomer Shooter video games_** like *Doom* and *Duke Nukem 3D*..., creating and archiving content to preserve the history and extend the life of these classics.
 
-___On YouTube, I specialize in making videos about mods, homebrews, and source ports of shooting games, especially those linked to Nintendo DS systems. I highlight the unique features of these games and machines, blending my passion for tech with a love for gaming.
+On **[YouTube](https://www.youtube.com/@Damnerz)**, I specialize in making videos about **mods**, **homebrews**, and **source ports** of shooting games, especially those linked to **_Nintendo DS_** systems. I highlight the **unique features** of these games and machines, blending my passion for tech with a love for gaming.
 
-___On TikTok, I take a more casual approach, sharing shorter, bite-sized videos about gaming and modding. This format allows me to connect with a broader audience and share my interests more flexibly.
+On **[TikTok](https://www.tiktok.com/@damnerz6)**, I take a more casual approach, sharing **shorter, bite-sized videos** about gaming and modding. This format allows me to **connect with a broader audience** and share my interests with more flexibly.
 
-___I also enjoy playing games with my gang of friends, especially multiplayer experiences on DS systems. This camaraderie and enthusiasm for gaming make me an active participant in the retro and modding communities.
+I also enjoy **playing games with my gang of friends**, especially **multiplayer experiences** on **DS systems**. This camaraderie and enthusiasm for gaming make me an **active participant in the retro and modding communities**.
 
-___Currently, I'm working on my project PrBoom-Plus-Enhanced, a customized source port designed to improve the Doom experience with added features and optimizations. This project combines my love for retro gaming with my skills in modding and programming
+Currently, I'm working on my project **_PrBoom-Plus-Enhanced_**, a customized **source port** for computer and Nintendo 3DS designed to improve the *Doom* experience with **added features and optimizations**. This project combines my **love for retro gaming** with my **skills and passion in modding and programming**.
 
-### Your Interests:  
+
+### My Interests:  
 
 --- 
 #### **Gaming**:
 - Playing retro games (*Doom*, *Duke Nukem 3D*, *Half-Life 1*, and more Boomer Shooters)  
-- Playing modern video games  
+- Playing modern video games (*Minecraft*, and Nintendo games)
 - Playing multiplayer games with friends/gang  
 - Playing board games and tabletop games  
 
@@ -29,14 +31,14 @@ ___Currently, I'm working on my project PrBoom-Plus-Enhanced, a customized sourc
 - Exploring and experimenting with custom firmware and ROMs on devices  
 - Watching videos about old computers (*e.g., Apple II, BBC Micro, MSX, Amiga, 486,...*)  
 - Watching "hard modding" of video game consoles (*e.g., Nintendo DS family systems, Nintendo 3DS family systems...*)  
-- Following modding and homebrew scenes (especially Nintendo DS & 3DS, also Wii U and PS Vita)  
+- Following modding and homebrew scenes (*especially Nintendo DS & 3DS, also Wii U and PS Vita*)  
 - Exploring crazy *Doom* ports to unconventional devices
 
 #### **Creative Projects**:
 - Creating *Doom* maps using Ultimate Doom Builder  
 - 3D modeling and designing in Blender  
-- Programming and experimenting with code for personal projects  
-- Building and tinkering with DIY tech setups  
+- Programming and experimenting with code for personal projects and school project  
+- Building and tinkering with DIY tech setups (e.g. *Arduino*)
 
 #### **High-Tech Interests**:
 - Keeping up with the latest advancements in AI, robotics, and high-tech developments  
@@ -295,5 +297,6 @@ ___Currently, I'm working on my project PrBoom-Plus-Enhanced, a customized sourc
 - **Twitter:** [@Damnerz](https://twitter.com/Damnerz) / [@RTROGEEK](https://twitter.com/RTROGEEK)
 - **Portfolio:** Not available yet; just doing things for fun!
 
+###### PrBoom-Plus-Enhnaced Project
 
-
+- **Discord:** https://discord.gg/rdbUMSzHrc
