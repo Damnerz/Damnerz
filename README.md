@@ -5,7 +5,6 @@
 __"A high school student born to program and share"__
 
 ---
-# About Me
 
 I'm a young guy **_in a suit and tie_**, balancing a sharp, professional style with a love for gaming and technology. I dive deep into **_Boomer Shooter video games_** like *Doom* and *Duke Nukem 3D*..., creating and archiving content to preserve the history and extend the life of these classics.
 
