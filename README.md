@@ -74,7 +74,7 @@ Currently, I'm working on my project **_PrBoom-Plus-Enhanced_**, a customized **
 <tbody>
 <tr>
 <td><strong>ASM</strong></td>
-<td><img alt="Assembly" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" /></td>
+<td><img alt="Assembly" width="32px" src="/images/asm.png" /></td>
 <td>★☆☆☆☆ (1)</td>
 </tr>
 <tr>
@@ -168,12 +168,12 @@ Currently, I'm working on my project **_PrBoom-Plus-Enhanced_**, a customized **
 </tr>  
 <tr>  
 <td><strong>Makefile</strong></td>  
-<td><img alt="Makefile" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/makefile/makefile-original.svg" /></td>  
+<td><img alt="Makefile" width="30px" src="/images/makefile.png" /></td>  
 <td>★★☆☆☆ (2)</td>  
 </tr>  
 <tr>  
 <td><strong>DevKitPro</strong></td>  
-<td><img alt="DevKitPro" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devkitpro/devkitpro-original.svg" /></td>  
+<td><img alt="DevKitPro" width="56px" src="" /></td>  
 <td>★★☆☆☆ (2)</td>  
 </tr>  
 </tbody>  
@@ -191,14 +191,14 @@ Currently, I'm working on my project **_PrBoom-Plus-Enhanced_**, a customized **
 <tbody>  
 <tr>  
 <td><strong>Ultimate Doom Builder</strong></td>  
-<td><img alt="Ultimate Doom Builder" width="30px" src="" /></td>  
+<td><img alt="Ultimate Doom Builder" width="30px" src="/images/udb.png" /></td>  
 <td>★★★☆☆ (3)</td>  
 </tr>  
 <tr>  
 <td><strong>Slade 3</strong></td>  
-<td><img alt="Slade 3" width="30px" src="" /></td>  
+<td><img alt="Slade 3" width="30px" src="/images/slade3.png" /></td>  
 <td>★★☆☆☆ (2)</td>  
-</tr>  
+</tr>   
 </tbody>  
 </table>  
 
@@ -229,7 +229,7 @@ Currently, I'm working on my project **_PrBoom-Plus-Enhanced_**, a customized **
 </tr>  
 <tr>  
 <td><strong>Android</strong></td>  
-<td><img alt="Android" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Android_Logo_2019.png" /></td>  
+<td><img alt="Android" width="22px" src="/images/android.png"/></td>  
 <td>★★☆☆☆ (2)</td>  
 </tr>  
 </tbody>  
