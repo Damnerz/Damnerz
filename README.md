@@ -6,33 +6,52 @@ __"A high school student born to program and share"__
 
 ---
 
-Hello! I’m Damnerz, a high school student who loves coding, game development, and tinkering with electronics. I’m actively working on projects in my spare time, all for free, as I build my skills!
+I'm a young guy **_in a suit and tie_**, balancing a sharp, professional style with a love for gaming and technology. I dive deep into **_Boomer Shooter video games_** like *Doom* and *Duke Nukem 3D*..., creating and archiving content to preserve the history and extend the life of these classics.
 
----
+On **[YouTube](https://www.youtube.com/@Damnerz)**, I specialize in making videos about **mods**, **homebrews**, and **source ports** of shooting games, especially those linked to **_Nintendo DS_** systems. I highlight the **unique features** of these games and machines, blending my passion for tech with a love for gaming.
 
-### More about me
+On **[TikTok](https://www.tiktok.com/@damnerz6)**, I take a more casual approach, sharing **shorter, bite-sized videos** about gaming and modding. This format allows me to **connect with a broader audience** and share my interests with more flexibly.
 
----
+I also enjoy **playing games with my gang of friends**, especially **multiplayer experiences** on **DS systems**. This camaraderie and enthusiasm for gaming make me an **active participant in the retro and modding communities**.
 
-😊Who am I?
+Currently, I'm working on my project **_PrBoom-Plus-Enhanced_**, a customized **source port** for computer and Nintendo 3DS designed to improve the *Doom* experience with **added features and optimizations**. This project combines my **love for retro gaming** with my **skills and passion in modding and programming**.
 
-I'm just a random young guy in a suit and tie, who wants to do stuff on the web. To share, archive, content on 90s shooter video games like Doom, Duke Nukem 3D. And this random guy only makes content on shooting games on DSs on Youtube.com so I present mods and source ports of homebrews linked specifically to machines with features in games or not. But on Tiktok.com I share less specific stuff. I play games with my gang members on my DS's. Because it's easier to make short videos on Tiktok.com.
 
-❤️I love...
+### My Interests:  
 
-Doing stuff on the web, watch videos. My favorite old computer is the Apple II, Also I love doing stuff with custom firmwares custom rom on devices. I love old video games, I already had a ton of fun on Boomer Shooter video games like Doom, Duke Nukem 3D, Half-Life 1 and many others. I love play in multiplayer so thats why I'm playing with members of the gang. Sometimes I do mapping on Doom using Ultimate Doom Builder. Sometimes I do 3d modeling using Blender, sometimes I try to program things. Also I love the homebrew scene on Nintendo DS & 3DS. The Doom porting is crazy. And thats pretty much all I can think about right now. 
+--- 
+#### **Gaming**:
+- Playing retro games (*Doom*, *Duke Nukem 3D*, *Half-Life 1*, and more Boomer Shooters)  
+- Playing modern video games (*Minecraft*, and Nintendo games)
+- Playing multiplayer games with friends/gang  
+- Playing board games and tabletop games  
 
-To simplify as a list :)
+#### **Tech & Modding**:
+- Exploring and experimenting with custom firmware and ROMs on devices  
+- Watching videos about old computers (*e.g., Apple II, BBC Micro, MSX, Amiga, 486,...*)  
+- Watching "hard modding" of video game consoles (*e.g., Nintendo DS family systems, Nintendo 3DS family systems...*)  
+- Following modding and homebrew scenes (*especially Nintendo DS & 3DS, also Wii U and PS Vita*)  
+- Exploring crazy *Doom* ports to unconventional devices
 
-- Playing retrogames
-- Playing games
-- Watching old computers videos
-- Watching "Hard Modding" of video game console
-- Following the actuallity about modding and homebrews
-- Listenning music 
-- Following the computers actuality
-- Following the High-Tech (Ai, Robotic,)
-- Programming my projects
+#### **Creative Projects**:
+- Creating *Doom* maps using Ultimate Doom Builder  
+- 3D modeling and designing in Blender  
+- Programming and experimenting with code for personal projects and school project  
+- Building and tinkering with DIY tech setups (e.g. *Arduino*)
+
+#### **High-Tech Interests**:
+- Keeping up with the latest advancements in AI, robotics, and high-tech developments  
+- Following computer technology news and trends  
+
+#### **Media & Entertainment**:
+- Watching tech and gaming-related videos on YouTube and the web  
+- Watching documentaries or videos about retro technology and gaming history (*e.g., Elite 1894, ...*)  
+- Listening to music for relaxation or inspiration (*e.g., MBR, Beast In Black, video game music, ...*)
+
+#### **Other Hobbies**:
+- Exploring the history of computing and video game development  
+- Participating in online communities and forums related to retro gaming and modding  
+- Learning about or experimenting with emulation software for older games and systems  
 
 ### 🚀 Languages, Tools & OS
 
@@ -245,10 +264,10 @@ To simplify as a list :)
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=damnerz&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=damnerz&theme=radical&background=0A0A0A&stroke=CFFF04&ring=CFFF04&currStreakNum=CFFF04***&sideNums=CFFF04&dates=CFFF04&)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=damnerz&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Damnerz Github Stats"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damnerz&layout=compact&theme=dark&bg_color=0A0A0A" alt="Damnerz Top Languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=damnerz&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CFFF04&icon_color=CFFF04&text_color=CFFF04&bg_color=0A0A0A" alt="Damnerz Github Stats"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damnerz&layout=compact&theme=dark&bg_color=0A0A0A&text_color=CFFF04&title_color=CFFF04" alt="Damnerz Top Languages"/>
 
 ### 🎥 Content Creation
 
@@ -277,5 +296,6 @@ To simplify as a list :)
 - **Twitter:** [@Damnerz](https://twitter.com/Damnerz) / [@RTROGEEK](https://twitter.com/RTROGEEK)
 - **Portfolio:** Not available yet; just doing things for fun!
 
+###### PrBoom-Plus-Enhnaced Project
 
-
+- **Discord:** https://discord.gg/rdbUMSzHrc
