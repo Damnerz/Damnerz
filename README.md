@@ -284,6 +284,10 @@ Currently, I'm working on my project **_PrBoom-Plus-Enhanced_**, a customized **
 [![DSDoom 1.2.1 running on DSi in DS Mode footage.](https://ytcards.demolab.com/?id=J787jZFGXqs&title=DSDoom+1.2.1+running+on+DSi+in+DS+Mode+footage.&lang=en&timestamp=1727426008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DSDoom 1.2.1 running on DSi in DS Mode footage.")](https://www.youtube.com/watch?v=J787jZFGXqs)
 <!-- END YOUTUBE-CARDS -->
 
+#### Preview :
+
+[![Watch the video](https://i.ytimg.com/an_webp/rQmwB1BG7bk/mqdefault_6s.webp?du=3000&sqp=CMHGmLoG&rs=AOn4CLCvPY_jH23TeAuCgviuB9FjYA1zxw)](https://youtu.be/rQmwB1BG7bk?si=Gj1dcwUUS_ItmTVC) 
+[![Watch the video](https://i.ytimg.com/an_webp/lrHMRxohzHU/mqdefault_6s.webp?du=3000&sqp=COPbmLoG&rs=AOn4CLAmsun9KFhyBKtfBnhdW0NAsQSneA)](https://youtu.be/lrHMRxohzHU?si=YmvWKkfxMBg5ioCd) 
 <!--- Tiktok will be a thing DW about it ;) ---->
 
 
