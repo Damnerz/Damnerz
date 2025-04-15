@@ -21,7 +21,7 @@ Currently, I'm working on my project **_PrBoom-Plus-Enhanced_**, a customized **
 
 --- 
 #### **Gaming**:
-- Playing retro games (*Doom*, *Duke Nukem 3D*, *Half-Life 1*, and more Boomer Shooters)  
+- Playing retro games (*Doom*, *Duke Nukem 3D*, *Half-Life 1*, and more Boomer Shooters) without forgetting Super Nintendo Classics like Mega Man X*, Super Metroid* and more.   
 - Playing modern video games (*Minecraft*, and Nintendo games)
 - Playing multiplayer games with friends/gang  
 - Playing board games and tabletop games  
@@ -36,7 +36,7 @@ Currently, I'm working on my project **_PrBoom-Plus-Enhanced_**, a customized **
 #### **Creative Projects**:
 - Creating *Doom* maps using Ultimate Doom Builder  
 - 3D modeling and designing in Blender  
-- Programming and experimenting with code for personal projects and school project  
+- Programming and experimenting with code for personal projects and school project like an RC-car
 - Building and tinkering with DIY tech setups (e.g. *Arduino*)
 
 #### **High-Tech Interests**:
@@ -46,7 +46,7 @@ Currently, I'm working on my project **_PrBoom-Plus-Enhanced_**, a customized **
 #### **Media & Entertainment**:
 - Watching tech and gaming-related videos on YouTube and the web  
 - Watching documentaries or videos about retro technology and gaming history (*e.g., Elite 1894, ...*)  
-- Listening to music for relaxation or inspiration (*e.g., MBR, Beast In Black, video game music, ...*)
+- Listening to music for relaxation or inspiration (*e.g., MBR, Beast In Black, video game music like Donkey Kong Country soundtracks,...*)
 
 #### **Other Hobbies**:
 - Exploring the history of computing and video game development  
